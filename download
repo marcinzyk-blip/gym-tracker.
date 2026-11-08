@@ -1,0 +1,6 @@
+# Dane treningów — prywatny plik lokalny
+gym_workouts.json
+
+# Python
+__pycache__/
+*.py[cod]
